@@ -2,6 +2,7 @@ import React from "react";
 import nova from '../assets/projects/novaapp.png';
 import maxbet from '../assets/projects/maxbetmx.png';
 import restaurant from '../assets/projects/restaurant.png';
+import leadsoko from '../assets/projects/leadsoko_home.png';
 
 const Projects = () => {
   const projects = [
@@ -29,14 +30,14 @@ const Projects = () => {
       link: "https://miriammildred.github.io/restaurant/",
       github: "https://github.com/MIRIAMMILDRED/restaurant",
     },
-    // {
-    //   title: "COVID-19-TRACKER",
-    //   description:
-    //     "The COVID Tracking Project collects and publishes number of worldwide cases, number of death cases and number of recovered cases. ",
-    //   photo: covid,
-    //   link: "https://covid-19-tracker-75e50.web.app/",
-    //   github: "https://github.com/miriammildred/trivia",
-    // },
+    {
+      title: "LeadSoko Digital Agency",
+      description:
+        "A leading digital marketing Agency that helps you to grow your bussiness and brand utilizing technology. ",
+      photo: leadsoko,
+      link: "https://leadsoko.com/",
+      // github: "https://github.com/miriammildred/trivia",
+    },
    
     
     
