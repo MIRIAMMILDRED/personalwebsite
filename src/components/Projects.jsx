@@ -31,7 +31,7 @@ const Projects = () => {
       github: "https://github.com/MIRIAMMILDRED/restaurant",
     },
     // {
-    //   title: "LeadSoko Digital Agency",
+    //   title: "Click caDigital Agency",
     //   description:
     //     "A leading digital marketing Agency that helps you to grow your bussiness and brand utilizing technology. ",
     //   photo: leadsoko,
