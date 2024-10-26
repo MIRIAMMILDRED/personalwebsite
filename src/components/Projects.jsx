@@ -2,7 +2,7 @@ import React from "react";
 import nova from '../assets/projects/novaapp.png';
 import maxbet from '../assets/projects/maxbetmx.png';
 import restaurant from '../assets/projects/restaurant.png';
-// import leadsoko from '../assets/projects/leadsoko_home.png';
+import leadsoko from '../assets/projects/leadsoko_home.png';
 
 const Projects = () => {
   const projects = [
@@ -30,14 +30,14 @@ const Projects = () => {
       link: "https://miriammildred.github.io/restaurant/",
       github: "https://github.com/MIRIAMMILDRED/restaurant",
     },
-    // {
-    //   title: "Click caDigital Agency",
-    //   description:
-    //     "A leading digital marketing Agency that helps you to grow your bussiness and brand utilizing technology. ",
-    //   photo: leadsoko,
-    //   // link: "https://leadsoko.com/",
-    //   // github: "https://github.com/miriammildred/trivia",
-    // },
+    {
+      title: "Katalist Agency",
+      description:
+        "A leading digital marketing Agency that helps you to grow your bussiness and brand utilizing technology. ",
+      photo: leadsoko,
+      link: "http://35.240.91.176/",
+      // github: "https://github.com/miriammildred/trivia",
+    },
    
     
     
