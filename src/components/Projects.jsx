@@ -3,6 +3,7 @@ import nova from '../assets/projects/novaapp.png';
 import maxbet from '../assets/projects/maxbetmx.png';
 import restaurant from '../assets/projects/restaurant.png';
 import leadsoko from '../assets/projects/leadsoko_home.png';
+import megabridge from '../assets/projects/megabridge_site.png';
 
 const Projects = () => {
   const projects = [
@@ -36,6 +37,15 @@ const Projects = () => {
         "A leading digital marketing Agency that helps you to grow your bussiness and brand utilizing technology. ",
       photo: leadsoko,
       link: "http://35.240.91.176/",
+      // github: "https://github.com/miriammildred/trivia",
+    },
+
+    {
+      title: "Megabridge Foundation",
+      description:
+        "A non-profit organization invested in helping youth through sustainable development. ",
+      photo: megabridge,
+      link: "https://megabridgefoundation.org/",
       // github: "https://github.com/miriammildred/trivia",
     },
    
